@@ -8,4 +8,4 @@
 
 # 3 Axios
 
-# 4 JQury
+# 4 JQuery
